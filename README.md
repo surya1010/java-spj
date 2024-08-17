@@ -1,0 +1,6 @@
+- mainclass ada di module controller
+-  db menggunakan 2 table tickets, dan ticket_bookings
+    - tickets menyimpan informasi tentang nama, jumlah dan available atau tidaknya
+    - ticket_bookings menyimpan riwayat
+- menggunakan AtomicInteger untuk ratelimiter
+- dokumentasi hanya contoh response dan status code 
